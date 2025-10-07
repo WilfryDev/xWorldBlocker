@@ -1,0 +1,20 @@
+# Codigo hecho por xPlugins | WillfryDev
+# ¿Eres nuevo? Esta es el plugin.yml, donde se preparat odo
+
+name: ${project.name}
+version: ${project.version}
+main: jn.willfrydev.xworldblocker.xWorldBlocker
+api-version: '1.13'
+author: WillfryDev
+description: Bloquea la entrada a mundos específicos mediante permisos.
+commands:
+  xworldblocker:
+    description: Comando principal del plugin xWorldBlocker.
+    aliases: [xwb]
+permissions:
+  xworldblocker.admin:
+    description: Permiso para usar los comandos de administración.
+    default: op
+  xworldblocker.bypass.*:
+    description: Permiso para entrar a todos los mundos bloqueados.
+    default: op
