@@ -1,3 +1,6 @@
+## 🔥 Partner 10% discount on your purchases on [Website](https://cprot.net/)
+![partner](https://cdn.modrinth.com/data/cached_images/b93aa3ea2ac405d138954f35aa09c4177dd7880b.jpeg)
+
 ![Banner](https://cdn.modrinth.com/data/cached_images/efa8f97856730d4545b0104943d46767208b4169.jpeg)
 ## xWorldBlocker | Total Control Over Your World Access!
 
